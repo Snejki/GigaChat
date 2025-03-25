@@ -1,8 +1,4 @@
-﻿using System.Text.Json;
-using System.Text.Json.Serialization;
-using GigaChat.Application.Features.Chat;
-using GigaChat.Application.Tools.Chat;
-using GigaChat.Application.Tools.Youtube;
+﻿using GigaChat.Application.Features.Chat;
 using MediatR;
 
 namespace GigaChat.Api.Endpoints;
